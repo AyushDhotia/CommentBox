@@ -1,0 +1,32 @@
+.rich-text {
+    &__button{
+       margin:5px;
+  	   border:none;
+    }
+    &__select{
+       margin:5px;
+  	   border:none;
+    }
+    &__div{
+       width: 32% !important;
+	   margin: auto;
+       display: block;
+       border: 1px solid #ccc;
+    }
+    &__iframe{
+       width: 32% !important;
+	   margin: auto;
+       display: block;
+       border: 1px solid #ccc;
+       height:200px;
+ 	   background-color: white;
+    }
+    &__div {
+	   border: none;
+  	   margin-bottom: 10px;
+	}
+	&__body {
+	   background-color: whitesmoke;
+ 	   margin-top: 100px;
+	}
+}
